@@ -1,0 +1,54 @@
+﻿1. What is Python?
+   * Python is a high-level, interpreted programming language known for its readability and ease of use.
+2. How do you declare a variable in Python?
+   * Variables in Python are declared by simply assigning a value, like x = 10.
+3. What are the basic data types in Python?
+   * The basic data types include int, float, str, bool, and None.
+4. How do you take input from the user?
+   * Using the input() function.
+5. What is a loop in Python?
+   * A loop is used to iterate over a sequence (like a list, tuple, dictionary, set, or string).
+6. How do you define a function in Python?
+   * Using the def keyword.
+7. What is a lambda function?
+   * A lambda function is a small anonymous function defined using the lambda keyword.
+8. How do you create a list in Python?
+   * By placing comma-separated values inside square brackets.
+9. How do you access elements in a list?
+   * By using indexing.
+10. How do you append an element to a list?
+   * Using the append() method.
+11. What is a dictionary in Python?
+   * A dictionary is a collection of key-value pairs, defined using curly braces.
+12. How do you access values in a dictionary?
+   * By using the key.
+13. How do you concatenate strings?
+   * Using the + operator.
+14. How do you access characters in a string?
+   * By using indexing.
+15. What is a class in Python?
+   * A class is a blueprint for creating objects, defined using the class keyword.
+16. How do you handle exceptions in Python?
+   * Using the try-except block.
+17. What is a module in Python?
+   * A module is a file containing Python code that can be imported and used in other Python scripts.
+18. How do you open a file in Python?
+   * Using the open() function.
+19. How do you read from a file?
+   * Using the read() or readline() methods.
+20. What is a list comprehension?
+   * A concise way to create lists.
+21. How do you create a list comprehension with a condition?
+   * By adding an if clause.
+22. What is a generator?
+   * A generator is a function that returns an iterator, created using the yield keyword.
+23. What is a decorator?
+   * A decorator is a function that modifies the behavior of another function.
+24. What is NumPy?
+   * NumPy is a library for numerical computing with Python.
+25. How do you create a NumPy array?
+   * Using the numpy.array() function.
+26. What is Pandas?
+   * Pandas is a library for data manipulation and analysis.
+27. How do you read a CSV file with Pandas?
+   * Using the read_csv() function.
