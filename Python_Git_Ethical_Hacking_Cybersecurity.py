@@ -1,0 +1,1 @@
+print("*"*40, "Marzena Banczyk","*"*20, "GitHub","*"*10, "Python","*"*10, "VSCode","*"*90, "Cybersecurity", "*"*110)
