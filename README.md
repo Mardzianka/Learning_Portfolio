@@ -49,7 +49,7 @@ Feel free to reach out to me with any questions, suggestions, or collaborations:
 
 Email: m.banczyk2@gmail.com
 
-LinkedIn: www.linkedin.com/in/marzena202
+LinkedIn: www.linkedin.com/in/marzena2025
 
 GitHub: https://github.com/Mardzianka
 
